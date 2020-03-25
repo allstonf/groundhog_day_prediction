@@ -3,6 +3,7 @@
 Data Visualization: https://infogram.com/phil-1h1749zo9k8y2zj?live
 
 ___Introduction___
+
 The legend goes that:
 
 - if Phil, a 130 year old groundhog,  sees his shadow on February 2 (Groundhog Day), there will be an extended winter for the next six weeks.
@@ -12,6 +13,7 @@ The legend goes that:
 We evaluated Phil's predictive performance over time and found that he is marginally better than a random classifier.
 
 ___Conclusion___
+
 An interesting insight is that when compared to a classifier that randomly predicts the season change, Phil performs marginally better than the classifier by about 2%.
 
 However, when compared to a classifier that always predicts an extended winter, Phils performs just as well as the classifier.
